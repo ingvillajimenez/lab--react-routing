@@ -37,7 +37,10 @@ a {
 }
 
 .home li {
-  margin: 30px 0; 
+  margin: 30px auto; 
+  border: 1px solid lightskyblue;
+  padding: 20px 0;
+  width: 20%;
 }
 
 .classlist {
